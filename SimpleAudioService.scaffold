@@ -1,0 +1,6 @@
+<scaffold project="SimpleAudioService" target="SimpleAudioService" version="1.0" configuration="Release" publisher="au.com.rayh" name="SimpleAudioService">
+  <sdk>iphoneos4.3</sdk>
+  <sdk>iphonesimulator4.3</sdk>
+
+  <headers>SimpleAudioService/*.h</headers>
+</scaffold>

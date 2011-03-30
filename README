@@ -1,0 +1,4 @@
+Simple Audio Service
+-
+
+This is a very simple class that allows allows aif/cif files to be loaded into memory and played on demand using the low-latency system audio framework.
